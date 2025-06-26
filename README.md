@@ -57,3 +57,7 @@ steps_to_run_project:
       - Enter any text or URL into the input box.
       - Click the Generate button.
       - The generated QR code will appear below the input.
+
+## sample output image
+
+<img width="395" alt="Screenshot 2025-06-26 at 1 40 36 PM" src="https://github.com/user-attachments/assets/b5794772-8268-4827-b928-d3c92b2c8d2c" />
