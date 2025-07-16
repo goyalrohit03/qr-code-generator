@@ -60,6 +60,8 @@ steps_to_run_project:
       - Click the Generate button.
       - The generated QR code will appear below the input.
 
-## Sample Output
+## 📸 Sample Output
 
-<img width="395" alt="Screenshot 2025-06-26 at 1 40 36 PM" src="https://github.com/user-attachments/assets/b5794772-8268-4827-b928-d3c92b2c8d2c" />
+Below is a preview of the QR Code Generator in action:
+
+<img width="395" alt="QR Code Generator Screenshot" src="https://github.com/user-attachments/assets/b5794772-8268-4827-b928-d3c92b2c8d2c" />
