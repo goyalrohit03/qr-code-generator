@@ -1,20 +1,19 @@
-# QR Code Generator
+# 🔳 QR Code Generator
 
-A simple QR Code Generator web application with a Node.js backend and Express server.
-
----
-
-## Features
-
-- Generate QR codes for any text or URL.
-- QR code generation handled on the backend using [`qr-image`](https://www.npmjs.com/package/qr-image).
-- Simple and responsive frontend with HTML, CSS, and JavaScript.
-- API endpoint to generate QR codes dynamically.
-- Hosted locally or easily deployed on platforms like GitHub Pages (frontend) and any Node.js hosting (backend).
+A simple QR Code Generator web application with a **Node.js backend** and **Express server**.
 
 ---
 
-## Project Structure
+## ✨ Features
+
+- ✅ Generate QR codes for any text or URL.
+- 🛠️ QR code generation handled on the backend using [`qr-image`](https://www.npmjs.com/package/qr-image).
+- 🖥️ Simple and responsive frontend with HTML, CSS, and JavaScript.
+- 🔗 API endpoint to generate QR codes dynamically.
+- 🌐 Hosted locally or easily deployed on platforms like GitHub Pages (frontend) and any Node.js hosting (backend).
+---
+
+## 🗂️ Project Structure
 
 qr-code-combined/
 ├── public/
@@ -31,7 +30,7 @@ qr-code-combined/
 
 ---
 
-## Prerequisites
+## ⚙️ Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - npm (comes with Node.js)
@@ -39,8 +38,7 @@ qr-code-combined/
 
 ---
 
-## How to Run the Project Locally
-
+## 🚀 How to Run the Project Locally
 Follow these steps to get the project up and running on your machine:
 
 steps_to_run_project:
