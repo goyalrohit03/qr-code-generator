@@ -18,7 +18,8 @@ A simple QR Code Generator web application with a **Node.js backend** and **Expr
 qr-code-combined/
 ├── public/
  ├── index.html # Frontend HTML page
- └── styles.css # CSS styles for frontend
+ 
+  └── styles.css # CSS styles for frontend
  
 ├── node_modules/ # Node.js dependencies
 
